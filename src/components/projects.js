@@ -25,7 +25,7 @@ class Projects extends Component {
                 type="button"
                 onClick={(e) => {
                   e.preventDefault();
-                  window.location.href='https://github.com/daniloorozco';
+                  window.location.href='https://github.com/daniloorozco/personal-website';
                 }}
             >Github</Button>
             </CardActions>
@@ -80,7 +80,7 @@ class Projects extends Component {
                 type="button"
                 onClick={(e) => {
                   e.preventDefault();
-                  window.location.href='https://github.com/daniloorozco/personal-website';
+                  window.location.href='https://github.com/daniloorozco/ufc-predictions';
                 }}
             >Github</Button>
             </CardActions>
