@@ -12,3 +12,4 @@ Then open your browser of preference and go to localhost:3000 or the port specif
 
 # About
 - Created with React.js, Javascript, HTML and CSS
+- A site to provide more information about myself, including my likes, hobbies and projects.
